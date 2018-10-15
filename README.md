@@ -1,4 +1,7 @@
 # jsx-if-else
+
+[Deprecated!] Repo has been moved to https://github.com/lindebrothers/jsx-if-else.
+
 A very lightweight and small react component that will let you write simple if and else condition with JSX syntax..
 
 ### Getting started
